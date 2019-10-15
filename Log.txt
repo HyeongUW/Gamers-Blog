@@ -1,0 +1,11 @@
+1. Passport-Example
+
+* Oct 12, 2019
+	-> Changed the sign-up form to take in username (Implemented)
+	-> Now the page shows corresponding username when logged-in (current)
+
+
+2. Blog-Example
+
+* Oct 12, 2019
+	-> Creating assciations among three different tables (current)
